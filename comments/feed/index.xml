@@ -10,8 +10,8 @@
 	Bình luận cho WordPress	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenhuuphu2512.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 15 Sep 2021 02:50:47 +0000</lastBuildDate>
+	<description> WordPress</description>
+	<lastBuildDate>Sun, 26 Sep 2021 03:53:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

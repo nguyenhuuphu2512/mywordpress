@@ -10,7 +10,7 @@
 	Các phản hồi luận về: test	</title>
 	<atom:link href="http://localhost/myproject/wordpress/test/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenhuuphu2512.github.io/mywordpress</link>
-	<description>Một trang web mới sử dụng WordPress</description>
+	<description> WordPress</description>
 	<lastBuildDate>Mon, 30 Aug 2021 01:18:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
