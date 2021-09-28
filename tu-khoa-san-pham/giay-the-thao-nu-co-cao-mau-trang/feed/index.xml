@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/tu-khoa-san-pham/giay-the-thao-nu-co-cao-mau-trang/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenhuuphu2512.github.io/mywordpress</link>
 	<description> WordPress</description>
-	<lastBuildDate>Sun, 26 Sep 2021 03:46:34 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 15:06:25 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -37,9 +37,7 @@
 				<guid isPermaLink="false">https://nguyenhuuphu2512.github.io/mywordpress/?post_type=product&#038;p=295</guid>
 
 					<description><![CDATA[Giày thể thao nữ cổ cao màu trắng]]></description>
-										<content:encoded><![CDATA[<p>Giày thể thao nữ cổ cao màu trắng<img loading="lazy" class="alignnone size-full wp-image-296" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-content/uploads/2021/09/73dfa03cd2e6f7cdc25fb56d5a6f2024.jpg" alt="" width="750" height="750" /></p>
-]]></content:encoded>
-					
+		
 					<wfw:commentRss>https://nguyenhuuphu2512.github.io/mywordpress/product/giay-the-thao-nu-co-cao-mau-trang/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		

@@ -5,11 +5,11 @@
 	<title>Đăng nhập &lsaquo; WordPress &#8212; WordPress</title>
 	<meta name="robots" content="max-image-preview:large, noindex, noarchive">
 <link rel="dns-prefetch" href="//s.w.org">
-<link rel="stylesheet" id="dashicons-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.8.1" media="all">
-<link rel="stylesheet" id="buttons-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=5.8.1" media="all">
-<link rel="stylesheet" id="forms-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/css/forms.min.css?ver=5.8.1" media="all">
-<link rel="stylesheet" id="l10n-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=5.8.1" media="all">
-<link rel="stylesheet" id="login-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/css/login.min.css?ver=5.8.1" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/css/dashicons.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="buttons-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/css/buttons.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="forms-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/css/forms.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="l10n-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/css/l10n.min.css?ver=5.8.1" type="text/css" media="all">
+<link rel="stylesheet" id="login-css" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/css/login.min.css?ver=5.8.1" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
 	<link rel="icon" href="https://nguyenhuuphu2512.github.io/mywordpress/wp-content/uploads/2021/09/funny-expressive-dog-corgi-gen-1124-9925-1594954934_m_460x0.jpg" sizes="32x32">
@@ -57,46 +57,54 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }		</script>
 				<p id="backtoblog">
 			<a href="https://nguyenhuuphu2512.github.io/mywordpress/">&larr; Quay lại WordPress</a>		</p>
 			</div>
-	<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
-<script id="zxcvbn-async-js-extra">
+	<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/jquery/jquery.min.js?ver=3.6.0" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2" id="jquery-migrate-js"></script>
+<script type="text/javascript" id="zxcvbn-async-js-extra">
+/*  */
 var _zxcvbnSettings = {"src":"https:\/\/nguyenhuuphu2512.github.io\/mywordpress\/wp-includes\/js\/zxcvbn.min.js"};
+/*  */
 </script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de" id="wp-hooks-js"></script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79" id="wp-i18n-js"></script>
-<script id="wp-i18n-js-after">
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.7" id="regenerator-runtime-js"></script>
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0" id="wp-polyfill-js"></script>
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/hooks.min.js?ver=a7edae857aab69d69fa10d5aef23a5de" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/dist/i18n.min.js?ver=5f1269854226b4dd90450db411a12b79" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
 wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 </script>
-<script id="password-strength-meter-js-extra">
+<script type="text/javascript" id="password-strength-meter-js-extra">
+/*  */
 var pwsL10n = {"unknown":"Mật khẩu mạnh không xác định","short":"Rất yếu","bad":"Yếu","good":"Trung bình","strong":"Mạnh","mismatch":"Mật khẩu không khớp"};
+/*  */
 </script>
-<script id="password-strength-meter-js-translations">
+<script type="text/javascript" id="password-strength-meter-js-translations">
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-08-02 03:13:39+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"%1$s is deprecated since version %2$s! Use %3$s instead. Please consider writing more inclusive code.":["%1$s đã ngừng hoạt động từ phiên bản %2$s! Sử dụng thay thế bằng %3$s."]}},"comment":{"reference":"wp-admin\/js\/password-strength-meter.js"}} );
 </script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=5.8.1" id="password-strength-meter-js"></script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
-<script id="wp-util-js-extra">
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/js/password-strength-meter.min.js?ver=5.8.1" id="password-strength-meter-js"></script>
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/underscore.min.js?ver=1.13.1" id="underscore-js"></script>
+<script type="text/javascript" id="wp-util-js-extra">
+/*  */
 var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};
+/*  */
 </script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
-<script id="user-profile-js-extra">
-var userProfileL10n = {"user_id":"0","nonce":"b83d2302a4"};
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-includes/js/wp-util.min.js?ver=5.8.1" id="wp-util-js"></script>
+<script type="text/javascript" id="user-profile-js-extra">
+/*  */
+var userProfileL10n = {"user_id":"0","nonce":"8ad74a35d3"};
+/*  */
 </script>
-<script id="user-profile-js-translations">
+<script type="text/javascript" id="user-profile-js-translations">
 ( function( domain, translations ) {
 	var localeData = translations.locale_data[ domain ] || translations.locale_data.messages;
 	localeData[""].domain = domain;
 	wp.i18n.setLocaleData( localeData, domain );
 } )( "default", {"translation-revision-date":"2021-08-02 03:13:39+0000","generator":"GlotPress\/3.0.0-alpha.2","domain":"messages","locale_data":{"messages":{"":{"domain":"messages","plural-forms":"nplurals=1; plural=0;","lang":"vi_VN"},"Your new password has not been saved.":["Mật khẩu mới của bạn chưa được lưu."],"Hide":["Ẩn đi"],"Show":["Hiển thị"],"Confirm use of weak password":["Chấp nhận sử dụng mật khẩu yếu."],"Hide password":["Ẩn mật khẩu"],"Show password":["Hiện mật khẩu"]}},"comment":{"reference":"wp-admin\/js\/user-profile.js"}} );
 </script>
-<script src="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=5.8.1" id="user-profile-js"></script>
+<script type="text/javascript" src="https://nguyenhuuphu2512.github.io/mywordpress/wp-admin/js/user-profile.min.js?ver=5.8.1" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
 	</html>
