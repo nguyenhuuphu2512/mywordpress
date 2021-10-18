@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Bình luận cho WordPress	</title>
+	Bình luận cho Shop giày Phú Nguyễn	</title>
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenhuuphu2512.github.io/mywordpress</link>
-	<description> WordPress</description>
-	<lastBuildDate>Sun, 10 Oct 2021 12:27:19 +0000</lastBuildDate>
+	<description>Hãy lựa chọn 1 đoi giày mà bạn yêu thich</description>
+	<lastBuildDate>Sun, 17 Oct 2021 13:50:16 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
